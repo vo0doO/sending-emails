@@ -1,0 +1,8 @@
+{
+    "MongoUrl": "",
+    "DbCollection": "",
+    "EmailsLimit": "",
+    "MailGunUser": "",
+    "MailGunPass": "",
+    "SendEmailFrom": ""
+}
